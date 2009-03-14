@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry sourcepath="C:/dev/_sources/commons-logging-1.0.4-src/src/java" kind="lib" path="lib/commons-logging-1.0.4.jar">
+		<attributes>
+			<attribute value="file:/C:/dev/_officialdocs/commons-logging-1.0.4/docs/apidocs/" name="javadoc_location"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/dev/_sources/logging-log4j-1.2.13/src/java" kind="lib" path="lib/log4j-1.2.13.jar">
+		<attributes>
+			<attribute value="file:/C:/dev/_officialdocs/logging-log4j-1.2.13/docs/api/" name="javadoc_location"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
